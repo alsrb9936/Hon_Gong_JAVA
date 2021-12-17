@@ -131,4 +131,4 @@ $RECYCLE.BIN/
 *.lnk
 
 
-./src/module-info.java
+/src/module-info.java
