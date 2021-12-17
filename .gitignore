@@ -130,4 +130,5 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-!/src/module-info.java
+
+./src/module-info.java
