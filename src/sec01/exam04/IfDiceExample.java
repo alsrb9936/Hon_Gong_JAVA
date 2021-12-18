@@ -14,7 +14,7 @@ public class IfDiceExample {
             System.out.println("4번이 나왔습니다.");
         }else if(num==5){
             System.out.println("5번이 나왔습니다.");
-        }else if(num==6){
+        }else{
             System.out.println("6번이 나왔습니다.");
         }
     }
